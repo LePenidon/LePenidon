@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi There :wave:</h2>
-  <h4>My name is Gabriel Penido Universidade de São Paulo - USP</h4>
+  <h4>My name is Gabriel Penido and i am a student at Universidade de São Paulo - USP</h4>
 </br>
 <a href="https://www.linkedin.com/in/gabriel-penido-7843441a4/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
